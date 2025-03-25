@@ -111,6 +111,10 @@ Integrate all functionalities, allowing users to enter queries about the PDF in 
 
 
 
+## 🔥 Bonus: Web Interface for Langflow API  
+
+Enhance your **Book Assistant** by creating a **web interface** with **HTML** for real-time chat.
+
 
 
 ## Additional Resources
