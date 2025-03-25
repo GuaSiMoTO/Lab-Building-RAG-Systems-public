@@ -118,5 +118,5 @@ Integrate all functionalities, allowing users to enter queries about the PDF in 
 - [Langchain Documentation](https://docs.langchain.com/)
 - [LangChain Ollama Installation Guide](https://python.langchain.com/docs/integrations/llms/ollama/)
 
-![Happy Coding](https://user-images.githubusercontent.com/970858/63899010-c23fc480-c9ea-11e9-84a2-542907e42362.png)
+![Happy_coding](https://github.com/user-attachments/assets/bbf0ccdc-0137-461f-b3c6-1b530016b390)
 
