@@ -110,7 +110,7 @@ Integrate all functionalities, allowing users to enter queries about the PDF in 
 
 
 
-## 🔥 Bonus: Intenta hacer el mismo Rag en Langflow 
+## 🔥 Bonus: Try to build the same RAG in Langflow
 
 
 ## Additional Resources
