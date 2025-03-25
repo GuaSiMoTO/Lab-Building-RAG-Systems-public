@@ -1,1 +1,1 @@
-# -Lab-Building-RAG-Systems
+# Lab-Building-RAG-Systems
