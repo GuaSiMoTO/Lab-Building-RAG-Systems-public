@@ -110,10 +110,7 @@ Integrate all functionalities, allowing users to enter queries about the PDF in 
 
 
 
-## 🔥 Bonus: Web Interface
-
-Enhance your **Assistant** by creating a **web interface** with **HTML** for real-time chat.
-
+## 🔥 Bonus: Intenta hacer el mismo Rag en Langflow 
 
 
 ## Additional Resources
