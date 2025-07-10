@@ -1,0 +1,7 @@
+streamlit 
+langchain_community 
+langchain_text_splitters 
+pdfplumber 
+langchain_core
+faiss-cpu
+langchain-google-genai
